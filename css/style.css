@@ -16,6 +16,14 @@ h3, p{
     margin: 1rem 2rem 0 2rem;
 }
 
+.recipeWrapper{
+    margin: 1rem 10% 1rem 10%;
+    padding: 2rem 2rem 2rem 2rem;
+    background-color: bisque;
+    border: 2px solid dimgrey;
+    box-shadow: 5px 5px;
+}
+
 a{
     display: block;
     text-decoration: none;
@@ -33,6 +41,7 @@ a:hover{
     color:seashell;
     background-color: burlywood;
     border-color: burlywood;
+    box-shadow: 3px 3px black;
 }
 
 img{
@@ -40,4 +49,5 @@ img{
     display: block;
     margin: 0 auto 2rem auto;
     width: 50%;
+    border: 2px solid white;
 }
