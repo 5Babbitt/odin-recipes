@@ -40,8 +40,7 @@ a{
 a:hover{
     color:seashell;
     background-color: burlywood;
-    border-color: burlywood;
-    box-shadow: 3px 3px black;
+    box-shadow: 1px 1px 2px black;
 }
 
 img{
