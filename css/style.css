@@ -1,0 +1,43 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+}
+
+h1, h3, a{
+    
+    font-family: sans-serif;
+}
+
+h3, p{
+    text-align: justify;
+    margin: 1rem 2rem 0 2rem;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    width: 20rem;
+    height: 2rem;
+    margin: 2rem auto 2rem auto;
+    padding-top: 1rem;
+    text-align: center;
+    color:dimgrey;
+    background-color:bisque;
+    border: 2px solid dimgrey;
+}
+
+a:hover{
+    color:seashell;
+    background-color: burlywood;
+    border-color: burlywood;
+}
+
+img{
+    box-shadow: #949186 5px 5px 10px;
+    display: block;
+    margin: 0 auto 2rem auto;
+    width: 50%;
+}
